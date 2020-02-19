@@ -1,6 +1,8 @@
 ---
 title: KNN学习
 date: 2019-08-16
+tags: 
+- 机器学习
 description: 自己写代码实现一个最简单的knn算法，不使用机器学习库。
 ---
 
