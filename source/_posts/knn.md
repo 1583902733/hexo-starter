@@ -1,5 +1,7 @@
 ---
 title: KNN学习
+date: 2019-08-16
+description: kNN算法的简易实现
 ---
 
 
