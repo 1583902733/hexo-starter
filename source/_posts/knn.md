@@ -48,7 +48,7 @@ plt.scatter(x_test[0],x_test[1],color="g")
 
 ```
 
-![20190620162916272_10651](http://q5xxri682.bkt.clouddn.com/20190620162916272_10651.png)
+![](https://raw.githubusercontent.com/1583902733/images/master/blogs/knn15.png)
 
 &#8195;&#8195;红色的为标记为0的数据集；蓝色的为标记为1的数据集，绿色的为测试点。
 

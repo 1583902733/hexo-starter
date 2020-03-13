@@ -46,10 +46,10 @@ description: 使用sklearn的kmeans对iris数据集进行分类。
 > plt.title("predict")
 > ```
 >
-> ![1562057195839](http://q5xxri682.bkt.clouddn.com/1562057195839.png)
+> ![img](https://raw.githubusercontent.com/1583902733/images/master/blogs/1562057195839.png)
 >
 > 这是使用原始数据绘制的散点图，不同类型的花使用不同类型的点进行标记。下面绘制使用kmeans聚类算法计算出来的族。
 >
-> ![1562057369139](http://q5xxri682.bkt.clouddn.com/1562057369139.png)
+> ![img](https://raw.githubusercontent.com/1583902733/images/master/blogs/1562057369139.png)
 >
 > ​	从结果的绘制图形看来，在这里使用kmeans算法的准确度还是蛮高的。
