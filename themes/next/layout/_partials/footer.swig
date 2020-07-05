@@ -70,13 +70,4 @@
   </div>
 {%- endif %}
 
-<!--以下为添加的代码-->
-      <!--统计start-->
-        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-        <div class="powered-by">
-        <i class="fa fa-user-md"></i><span id="busuanzi_container_site_uv">
-          本站访客数:<span id="busuanzi_value_site_uv"></span>
-        </span>
-        </div>
-
 {{- next_inject('footer') }}
